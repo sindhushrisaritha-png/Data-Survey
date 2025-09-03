@@ -15,7 +15,7 @@ This project showcases an interactive dashboard built from survey data. It highl
 3. Power Query - Data cleaning and transformation.
 
 # Dataset
-Source: Self collected , [Link](C:\Users\HP\Downloads\DataSurvey_list.xlsx)
+Source: Self collected (C:\Users\HP\Downloads\DataSurvey_list.xlsx)
 Size: Columns- 28, Rows- 631
 Format: CSV/Excel
 
